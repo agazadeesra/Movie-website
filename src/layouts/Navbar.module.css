@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+.navbar {
+    height: auto;
+    overflow: auto;
+    margin: 0;
+    padding: 15px 25px;
+    background-image: linear-gradient(to right, rgba(28, 242, 242, 0.377), rgb(118, 255, 253));
+}
+
+.icon {
+    text-decoration: none;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(1, 16, 11);
+    display: flex;
+    justify-content: center;
+}
